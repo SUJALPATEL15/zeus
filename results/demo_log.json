@@ -1,0 +1,28 @@
+{
+  "decision": "ROTATE",
+  "goal": [
+    32,
+    32
+  ],
+  "rules_fired": [
+    "R4 risky route",
+    "R5 ready",
+    "R6 utilities",
+    "R7 decide"
+  ],
+  "facts": {
+    "time_left": 40,
+    "eta": 29.0,
+    "in_zone": true,
+    "in_next_zone": false,
+    "cover_here": 0.0,
+    "choke_near": false,
+    "route_risk": 0.77,
+    "threat_here": 0.356,
+    "risky": true,
+    "U_HOLD": 1.2,
+    "U_GATEKEEP": 1.2,
+    "U_ROTATE": -1.3,
+    "decision": "HOLD"
+  }
+}

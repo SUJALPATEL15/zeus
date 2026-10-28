@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# Backups & Temp
+*.bak
+*.old
+scratch/
+temp_zeus_repo/
+.DS_Store
+Thumbs.db
